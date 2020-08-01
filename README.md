@@ -1,2 +1,2 @@
 # tabbar
-基于vue 的tabbar
+基于vue 的 tabbar模板
